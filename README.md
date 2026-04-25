@@ -45,4 +45,4 @@ password-analyzer/
 
 ## 👨‍💻 Author
 
-Created by [Your Name/Username] as a cybersecurity project to understand password entropy, brute-force vulnerabilities, and safe coding practices.
+Created by [Hiba Aitlhou] as a cybersecurity project to understand password entropy, brute-force vulnerabilities, and safe coding practices.
